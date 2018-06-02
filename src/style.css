@@ -1,0 +1,19 @@
+.carousel {
+  max-height: 300px;
+}
+
+.carousel .thumbs-wrapper {
+  display: none;
+}
+
+.carousel .control-dots {
+  display: none;
+}
+
+.ratings-star-container {
+  margin-bottom: 17px;
+}
+
+.Ratings {
+  text-align: center;
+}
